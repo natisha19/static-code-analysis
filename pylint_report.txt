@@ -1,0 +1,20 @@
+************* Module inventory
+inventory.py:7:0: C0301: Line too long (101/100) (line-too-long)
+inventory.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+inventory.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:19:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:24:4: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:27:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:33:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:35:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory.py:38:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:43:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:45:4: W0603: Using the global statement (global-statement)
+inventory.py:55:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:62:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:69:0: C0116: Missing function or method docstring (missing-function-docstring)
+inventory.py:74:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 7.32/10 (previous run: 4.80/10, +2.52)
+
